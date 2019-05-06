@@ -1,0 +1,10 @@
+name: Visenze Tagging
+description: Provide integration with Visenze tagging service.
+configure: visenze_tagging.settings
+package: Visenze
+
+type: module
+core: 8.x
+
+dependencies:
+  - visenze:visenze

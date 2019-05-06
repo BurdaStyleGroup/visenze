@@ -1,0 +1,7 @@
+url: https://virecognition.visenze.com
+version: v1
+service: image/recognize
+tag_groups:
+  - fashion_attributes
+access_key:
+secret_key:

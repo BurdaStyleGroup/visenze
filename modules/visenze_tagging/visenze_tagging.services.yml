@@ -1,0 +1,4 @@
+services:
+  visenze.tagging:
+    class: Drupal\visenze_tagging\VisenzeTagging
+    arguments: ['@config.factory', '@http_client', '@string_translation']

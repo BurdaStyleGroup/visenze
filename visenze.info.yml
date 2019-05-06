@@ -1,0 +1,6 @@
+name: Visenze
+description: Provide integration with Visenze services.
+package: Visenze
+
+type: module
+core: 8.x
