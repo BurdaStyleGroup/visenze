@@ -20,6 +20,11 @@ use GuzzleHttp\Psr7\Response;
  */
 class VisenzeTaggingTest extends UnitTestCase {
 
+  /**
+   * Guzzle http_client service.
+   *
+   * @var \GuzzleHttp\Client
+   */
   protected $guzzleClient;
 
   /**
